@@ -1,5 +1,3 @@
-# Project 1: empirical analysis
+# Algorithm Analysis 1
 
-Group members:
-
-Tri Dang
+This is an analysis of various algorithms used to process DNA sequences
